@@ -56,3 +56,9 @@ func assertCorrectString(t testing.TB, want, got string) {
 		t.Errorf("expected %q but got %q", want, got)
 	}
 }
+
+func ExampleRepeat() {
+	str := Repeat("go", 3)
+	fmt.Printf("%s", str)
+	// Output: gogogo
+}
