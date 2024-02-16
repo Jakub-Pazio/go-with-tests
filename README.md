@@ -9,7 +9,7 @@ I'm not planning to do 100% of them. This list is made just to stimulate dopamin
 - [x] Install Go
 - [x] Hello World
 - [x] Integers
-- [ ] Iteration
+- [x] Iteration
 - [ ] Arrays and slices
 - [ ] Structs, methods & interfaces
 - [ ] Pointers & errors
