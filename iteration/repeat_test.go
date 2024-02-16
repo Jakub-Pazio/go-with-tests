@@ -5,6 +5,30 @@ import (
 	"testing"
 )
 
+func BenchmarkBigRepeat(b *testing.B) {
+	for range b.N {
+		Repeat("a", 1000)
+	}
+}
+
+func BenchmarkBigSlowRepeat(b *testing.B) {
+	for range b.N {
+		SlowRepeat("a", 1000)
+	}
+}
+
+func BenchmarkSmallRepeat(b *testing.B) {
+	for range b.N {
+		Repeat("a", 2)
+	}
+}
+
+func BenchmarkSmallSlowRepeat(b *testing.B) {
+	for range b.N {
+		SlowRepeat("a", 2)
+	}
+}
+
 func TestRepeat(t *testing.T) {
 	cases := []struct {
 		str    string
