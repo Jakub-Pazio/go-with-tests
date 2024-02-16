@@ -8,7 +8,7 @@ I'm not planning to do 100% of them. This list is made just to stimulate dopamin
 
 - [x] Install Go
 - [x] Hello World
-- [ ] Integers
+- [x] Integers
 - [ ] Iteration
 - [ ] Arrays and slices
 - [ ] Structs, methods & interfaces
@@ -27,3 +27,10 @@ I'm not planning to do 100% of them. This list is made just to stimulate dopamin
 - [ ] Templating
 - [ ] Generics
 - [ ] Revisiting arrays and slices with generics
+
+## My Rules
+
+- Never copy anything
+- For every chapter write short notes on things i wish to use in future or found interesting/controversial
+- Write own set of test and try to play with every example
+- Update personal Go notes for each foreign concept
