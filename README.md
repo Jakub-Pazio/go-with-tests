@@ -10,7 +10,7 @@ I'm not planning to do 100% of them. This list is made just to stimulate dopamin
 - [x] Hello World
 - [x] Integers
 - [x] Iteration
-- [ ] Arrays and slices
+- [x] Arrays and slices
 - [ ] Structs, methods & interfaces
 - [ ] Pointers & errors
 - [ ] Maps
