@@ -11,7 +11,7 @@ I'm not planning to do 100% of them. This list is made just to stimulate dopamin
 - [x] Integers
 - [x] Iteration
 - [x] Arrays and slices
-- [ ] Structs, methods & interfaces
+- [x] Structs, methods & interfaces
 - [ ] Pointers & errors
 - [ ] Maps
 - [ ] Dependency Injection
