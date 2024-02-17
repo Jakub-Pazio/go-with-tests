@@ -27,7 +27,7 @@ func TestWithdraw(t *testing.T) {
 	t.Run("withdraw too much ETH", func(t *testing.T) {
 		wallet := Wallet{}
 		wallet.Deposite(Etherneum(20))
-		err := wallet.Withdraw(Etherneum(10))
+		err := wallet.Withdraw(Etherneum(30))
 
 		want := Etherneum(20)
 
