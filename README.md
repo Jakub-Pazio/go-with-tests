@@ -14,7 +14,7 @@ I'm not planning to do 100% of them. This list is made just to stimulate dopamin
 - [x] Structs, methods & interfaces
 - [x] Pointers & errors
 - [x] Maps
-- [ ] Dependency Injection
+- [x] Dependency Injection
 - [ ] Mocking
 - [ ] Concurrency
 - [ ] Select
