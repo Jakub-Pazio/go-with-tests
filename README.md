@@ -16,7 +16,7 @@ I'm not planning to do 100% of them. This list is made just to stimulate dopamin
 - [x] Maps
 - [x] Dependency Injection
 - [x] Mocking
-- [ ] Concurrency
+- [x] Concurrency
 - [ ] Select
 - [ ] Reflection
 - [ ] Sync
