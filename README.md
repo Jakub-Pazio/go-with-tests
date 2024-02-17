@@ -13,7 +13,7 @@ I'm not planning to do 100% of them. This list is made just to stimulate dopamin
 - [x] Arrays and slices
 - [x] Structs, methods & interfaces
 - [x] Pointers & errors
-- [ ] Maps
+- [x] Maps
 - [ ] Dependency Injection
 - [ ] Mocking
 - [ ] Concurrency
