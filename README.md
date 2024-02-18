@@ -19,7 +19,7 @@ I'm not planning to do 100% of them. This list is made just to stimulate dopamin
 - [x] Concurrency
 - [x] Select
 - [ ] Reflection
-- [ ] Sync
+- [x] Sync
 - [ ] Context
 - [ ] Intro to property based tests
 - [ ] Maths
