@@ -20,7 +20,7 @@ I'm not planning to do 100% of them. This list is made just to stimulate dopamin
 - [x] Select
 - [ ] Reflection
 - [x] Sync
-- [ ] Context
+- [x] Context
 - [ ] Intro to property based tests
 - [ ] Maths
 - [ ] Reading files
