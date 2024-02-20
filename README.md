@@ -25,7 +25,7 @@ I'm not planning to do 100% of them. This list is made just to stimulate dopamin
 - [ ] Maths
 - [x] Reading files (kinda)
 - [ ] Templating
-- [ ] Generics
+- [x] Generics
 - [ ] Revisiting arrays and slices with generics
 
 ## My Rules
